@@ -4,7 +4,7 @@ import React,{useEffect, useState} from 'react';
 
 
 const API_HOST = "https://s3-ap-southeast-1.amazonaws.com/he-public-data/TopSellingGamesbb1c49e.json";
-const API_URL = `${API_HOST}/game-rank-api`;
+//const API_URL = `${API_HOST}/game-rank-api`;
 
 
 function App() {
